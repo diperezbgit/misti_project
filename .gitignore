@@ -24,6 +24,7 @@ venv.bak/
 *.csv
 *.xlsx
 *.xls
+*.parquet
 
 # Specific files
 proyectoMISTI-2026.ipynb
