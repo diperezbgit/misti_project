@@ -1,0 +1,29 @@
+# Operating System
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.conda/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Large Data Files
+*.csv
+*.xlsx
+*.xls
+
+# Specific files
+proyectoMISTI-2026.ipynb
